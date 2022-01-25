@@ -1,4 +1,6 @@
-# fn-toggle.app
+# fn-easy.app
+
+ONLY WORKS WITH MACOS MONTEREY. REST OF README OUT OF DATE
 
 <img align="left" src="https://github.com/jakubroztocil/macos-fn-toggle/blob/master/Logo.png">
 
