@@ -899,10 +899,10 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			Tor/4uNSWqLCbkNLig9ZLb0taeo=
+			8/M/BCuN6tPy5Py0uJ80evtYwLY=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"5749cb28674c011263ced76f68fecddce283ada1" or cdhash H"4e8affe2e3525aa2c26e434b8a0f592dbd2d69ea"</string>
+			<string>cdhash H"6f1c4958fc1a45bdfa18f37e27481b2bd2983216" or cdhash H"f3f33f042b8dead3f2e4fcb4b89f347afb58c0b6"</string>
 		</dict>
 	</dict>
 	<key>rules</key>

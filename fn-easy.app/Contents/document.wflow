@@ -51,7 +51,7 @@
 				<key>ActionParameters</key>
 				<dict>
 					<key>source</key>
-					<string>tell application "System Preferences"	reveal anchor "keyboardTab" of pane "com.apple.preference.keyboard"	delay 0.4end telltell application "System Events" to tell process "System Preferences"	click checkbox 3 of tab group 1 of window 1end tellquit application "System Preferences"</string>
+					<string>tell application "System Preferences"	reveal anchor "keyboardTab" of pane "com.apple.preference.keyboard"end telltell application "System Events" to tell process "System Preferences"	repeat until exists tab group 1 of window 1	end repeat	click checkbox 3 of tab group 1 of window 1end tellquit application "System Preferences"</string>
 				</dict>
 				<key>BundleIdentifier</key>
 				<string>com.apple.Automator.RunScript</string>
