@@ -10,8 +10,20 @@ the Keyboard Pane in System Preferences.
 
 ![keyboard settings](https://github.com/jakubroztocil/macos-fn-toggle/blob/master/Screenshots/keyboard-settings.png)
 
-## Installation
+## Easy Install via Apple Shortcuts
 
+1. Download shortcut https://www.icloud.com/shortcuts/8442515fd86a46df9cabd5dd8bc65bf4
+2. Navigate to Preferences > Advanced and enable Allow Running Scripts.
+3. Navigate to System Preferences > Security & Privacy > Privacy > Accessibility and enable siriactionsd.
+
+### Enable Keyboard shortcut
+1. Open Shortcuts app
+2. Open fn-easy shortcut
+3. Click settings slider
+4. Click Add keyboard shortcut button
+
+
+## Advanced Install
 Run `make install` which installs the following files:
 
 * `/Applications/fn-easy.app` — the app containing the script that toggles 
@@ -33,7 +45,7 @@ Run `make install` which installs the following files:
 ![preferences](https://github.com/jakubroztocil/macos-fn-toggle/blob/master/Screenshots/privacy-settings.png)
 
 
-## Usage
+### Usage
 
 Run the app. The fastest way to do it is from Spotlight:
 
@@ -41,7 +53,7 @@ Run the app. The fastest way to do it is from Spotlight:
 2. Type `fn`, `fn-easy` should be the Top Hit.
 3. Hit `Enter`.
 
-## Enable Keyboard shortcut
+### Enable Keyboard shortcut
 
 1. Go to `System Preferences` > `Keyboard` > `Shortcuts` > `Services` > `General` 
    (at the end of the list) and assign a new shortcut to `fn-easy` service
