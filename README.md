@@ -16,6 +16,9 @@ the Keyboard Pane in System Preferences.
 2. Navigate to Preferences > Advanced and enable Allow Running Scripts.
 3. Navigate to System Preferences > Security & Privacy > Privacy > Accessibility and enable siriactionsd.
 
+### Usage
+1. Toggle from Menu Bar
+
 ### Enable Keyboard shortcut
 1. Open Shortcuts app
 2. Open fn-easy shortcut
@@ -23,7 +26,7 @@ the Keyboard Pane in System Preferences.
 4. Click Add keyboard shortcut button
 
 
-<details>## Advanced Install
+<details><summary>Advanced Install<summary>
 Run `make install` which installs the following files:
 
 * `/Applications/fn-easy.app` — the app containing the script that toggles 
