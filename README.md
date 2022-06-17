@@ -12,7 +12,7 @@ the Keyboard Pane in System Preferences.
 
 ## Easy Install via Apple Shortcuts
 
-1. Download shortcut https://www.icloud.com/shortcuts/8442515fd86a46df9cabd5dd8bc65bf4
+1. Download Shortcut: https://www.icloud.com/shortcuts/8442515fd86a46df9cabd5dd8bc65bf4
 2. Navigate to Preferences > Advanced and enable Allow Running Scripts.
 3. Navigate to System Preferences > Security & Privacy > Privacy > Accessibility and enable siriactionsd.
 
@@ -27,7 +27,8 @@ the Keyboard Pane in System Preferences.
 
 
 <details><summary>Advanced Install</summary>
-## Advanced Install
+  
+### Advanced Install
 Run `make install` which installs the following files:
 
 * `/Applications/fn-easy.app` — the app containing the script that toggles 
