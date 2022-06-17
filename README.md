@@ -26,7 +26,7 @@ the Keyboard Pane in System Preferences.
 4. Click Add keyboard shortcut button
 
 
-<details><summary>Advanced Install<summary>
+<details><summary>Advanced Install</summary>
 Run `make install` which installs the following files:
 
 * `/Applications/fn-easy.app` — the app containing the script that toggles 
