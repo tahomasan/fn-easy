@@ -23,7 +23,7 @@ the Keyboard Pane in System Preferences.
 4. Click Add keyboard shortcut button
 
 
-## Advanced Install
+<details>## Advanced Install
 Run `make install` which installs the following files:
 
 * `/Applications/fn-easy.app` — the app containing the script that toggles 
@@ -45,7 +45,7 @@ Run `make install` which installs the following files:
 ![preferences](https://github.com/jakubroztocil/macos-fn-toggle/blob/master/Screenshots/privacy-settings.png)
 
 
-### Usage
+### Usage (advanced install only)
 
 Run the app. The fastest way to do it is from Spotlight:
 
@@ -53,10 +53,11 @@ Run the app. The fastest way to do it is from Spotlight:
 2. Type `fn`, `fn-easy` should be the Top Hit.
 3. Hit `Enter`.
 
-### Enable Keyboard shortcut
+### Enable Keyboard shortcut (advanced install only)
 
 1. Go to `System Preferences` > `Keyboard` > `Shortcuts` > `Services` > `General` 
    (at the end of the list) and assign a new shortcut to `fn-easy` service
 
 
 ![keybard-shortcut](https://github.com/jakubroztocil/macos-fn-toggle/blob/master/Screenshots/keyboard-shortcut.png)
+  </details>
