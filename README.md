@@ -1,7 +1,5 @@
 # fn-easy.app
 
-based on fn-toggle, updated to work on MacOS Monterey. 
-
 <img align="left" src="https://github.com/jakubroztocil/macos-fn-toggle/blob/master/Logo.png">
 
 `fn-easy` toggles the top row of keys on your Apple keyboard between controls 
