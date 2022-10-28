@@ -2,6 +2,8 @@
 
 <img align="left" src="https://github.com/jakubroztocil/macos-fn-toggle/blob/master/Logo.png">
 
+NOTE: Ventura currently unsupported until I find time to update. Shortcut only works on Monterey. Advanced install works on previous versions of MacOS. 
+
 `fn-easy` toggles the top row of keys on your Apple keyboard between controls 
 for built-in Mac features and standard function keys, without having to access
 the Keyboard Pane in System Preferences.
